@@ -47,7 +47,7 @@ public class CompetitorManagerGUI extends JFrame {
         compEmailField = new JTextField();
         inputPanel.add(compEmailField);
 
-        inputPanel.add(new JLabel("Date of Birth:"));
+        inputPanel.add(new JLabel("Date of Birth (dd/MM/yyyy):"));
         compDOBField = new JTextField();
         inputPanel.add(compDOBField);
 
